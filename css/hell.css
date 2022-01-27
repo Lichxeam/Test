@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	background-color: salmon;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+header{
+	background-color: black;
+	text-align: center;
+	border-radius: 200px;
+	border: 20px solid #D44021;
+	padding-bottom: 50px;
+}
+
+h1,h2{
+	font-family: 'Permanent Marker', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+main{
+	text-align: center;
+	padding: 0 20px 20 px 100px;
+}
+
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: darkred;
+}
+
+p{
+	font-size: 30px;
+
+}
