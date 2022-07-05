@@ -8,7 +8,7 @@ header{
 	background-color: black;
 	text-align: center;
 	border-radius: 1px;
-	border: 10px solid white;
+	border: 10px solid ;
 	padding-bottom: 5px;
 }
 
@@ -26,6 +26,9 @@ main{
 	padding: 0 20px 20 px 100px;
 }
 
+a:link{
+	font-size: 	35px;
+}
 
 main img{
 	max-width: 100%;
